@@ -1,1 +1,1 @@
-# QunatumProteinFolding
+# Quantum Protein Folding
